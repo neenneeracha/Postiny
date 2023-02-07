@@ -1,0 +1,106 @@
+
+.profile {
+    background-color: transparent;
+}
+
+.profileSummary {
+    background-color: white;
+    width: 1800px;
+    height: 250px;
+    padding-left: 260px;
+    padding-top: 20px;
+}
+
+.profileimg img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 200px;
+}
+
+
+.sub,
+.article,
+.like {
+    float: left;
+    background-color: transparent;
+    align-items: center;
+    width: 200px;
+    height: 80px;
+    text-align: left;
+    margin-top: 60px;
+    margin-right: 100px;
+}
+
+.sub h3,
+.article h3,
+.like h3 {
+    color: black;
+    margin-top: 10px;
+    font-family: SF Pro Rounded-Bold;
+    font-size: 22px;
+}
+
+.sub h5,
+.article h5,
+.like h5 {
+    color: #B0B0B0;
+    font-family: SF Pro Rounded-Semibold;
+    font-size: 18px;
+}
+
+.summary img {
+    float: left;
+    margin-right: 22px;
+    width: 75px;
+}
+
+.profileDetail {
+    padding-left: 280px;
+    margin-top: -20px;
+    background-color: white;
+}
+
+.profileDetail h2 {
+    font-family: SF Pro Rounded-Semibold;
+    font-size: 50px;
+}
+
+.profileDetail h3 {
+    font-family: SF Pro Rounded-Medium;
+    font-size: 28px;
+    font-weight: lighter;
+    margin-top: -2px;
+}
+
+.profileDetail h4 {
+    font-family: SF Pro Rounded-Medium;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: 14px;
+    color: #B0B0B0;
+    margin-bottom: 44px;
+}
+
+.besideprofilebtn {
+    position: absolute;
+    margin-left: 980px;
+    margin-top: -55px;
+    margin-bottom: 100px;
+}
+
+.besideprofilebtn .MuiButton-outlined {
+    font-family: SF Pro Rounded-Semibold;
+    font-weight: lighter;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.besideprofilebtn .MuiButton-contained {
+    font-family: SF Pro Rounded-Medium;
+    font-weight: lighter;
+    font-size: 17px;
+    width: 135px;
+    border-radius: 8px;
+}

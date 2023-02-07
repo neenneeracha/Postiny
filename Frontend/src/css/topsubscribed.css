@@ -1,0 +1,97 @@
+.tsscontainer {
+    width: 420px;
+    height: auto;
+    min-height: 750px;
+    background-color: white;
+    border-radius: 25px;
+    margin-top: -750px;
+    margin-left: 1000px;
+}
+
+.topsubscribed .tscontainer .TStableContainer {
+    border-radius: 5px;
+    background-color: white;
+    width: 900px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.topsubscribed .table-topsc {
+    width: 900px;
+}
+
+.topsubscribed .table-topsc .TStableContainer {
+    margin: 10px 10px;
+    width: 1000px;
+}
+
+.topsubscribed .TStableContainer .tsHeaderCell {
+    font-family: "SF Pro Rounded-Semibold";
+    font-size: large;
+    background-color: white;
+    color: #808080;
+    padding-left: 2rem;
+}
+
+.topsubscribed .table-topsc .tscell {
+    font-family: "SF Pro Rounded-Medium";
+    font-size: medium;
+    padding-left: 2rem;
+    padding-top: 20px;
+    width: 10px;
+    color: #676767;
+}
+
+.table-topsc .tscell .tsimg img {
+    width: 75px;
+    height: 75px;
+    border-radius: 8px;
+}
+
+.table-topsc .tscell .tsname {
+    margin-right: 200px;
+    margin-top: -78px;
+    color: #454545;
+    font-size: 19px;
+}
+
+.table-topsc .tscell .tscategory {
+    margin-top: 3px;
+    font-size: 12px;
+    background: linear-gradient(to right, #1572A1, #80b7d3);
+    color: #fff;
+    padding: 2px 5px;
+    border-radius: 5px;
+    width: fit-content;
+    margin-bottom: 10px;
+}
+
+.table-topsc .tscell .tssubcount {
+    color: #189A25;
+    font-size: 16px;
+}
+
+.topsubscribedTitle h2 {
+    color: #1572A1;
+    margin-bottom: 22px;
+    padding-top: 60px;
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.tsimg {
+    margin-left: -100px;
+}
+
+
+.idContainer {
+    background-color: #1572A1;
+    width: 30px;
+    height: 30px;
+    padding: auto;
+    border-radius: 6px;
+    color: white;
+    margin-top: -3px;
+    padding: 5px 10px;
+}
